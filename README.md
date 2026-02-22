@@ -18,8 +18,8 @@ Consistent practice of Data Structures & Algorithms.
 
 | Problem No | Problem Name | Difficulty | Approach | Space |
 |------------|-------------|------------|----------|-------|
-| 31 | Next Permutation | Medium | Permutation Logic | O(1) |
-| 1260 | Shift 2D Grid | Easy | 3-Step Reverse (Index Mapping) | O(1) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | Permutation Logic | O(1) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | 3-Step Reverse (Index Mapping) | O(1) |
 
 ---
 
